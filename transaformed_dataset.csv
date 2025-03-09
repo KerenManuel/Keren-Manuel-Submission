@@ -1,0 +1,21 @@
+Order_ID,Location,Order_Volume_kg,Urgency,Truck_Type_Required,Assigned_Truck,Urgency_Level
+2,Bolgatanga,2432,High,Reefer_Truck,105,1
+4,Koforidua,4607,High,Box_Truck,103,1
+6,Koforidua,1906,High,Box_Truck,103,1
+5,Bolgatanga,977,High,Box_Truck,106,1
+7,Tema,980,High,Reefer_Truck,No Truck Available,1
+16,Tema,315,High,Box_Truck,102,1
+13,Tema,2016,High,Box_Truck,102,1
+12,Tema,3229,High,Box_Truck,102,1
+20,Tema,3822,High,Box_Truck,102,1
+18,Bolgatanga,3707,High,Box_Truck,106,1
+11,Bolgatanga,3825,Medium,Reefer_Truck,105,2
+8,Tema,2928,Medium,Box_Truck,102,2
+14,Bolgatanga,2414,Medium,Reefer_Truck,105,2
+10,Bolgatanga,4871,Medium,Box_Truck,106,2
+1,Bolgatanga,4194,Medium,Box_Truck,106,2
+9,Koforidua,672,Medium,Box_Truck,103,2
+17,Tema,4553,Medium,Box_Truck,102,2
+15,Tema,1482,Medium,Box_Truck,102,2
+3,Tema,878,Low,Reefer_Truck,No Truck Available,3
+19,Accra,2562,Low,Box_Truck,104,3
